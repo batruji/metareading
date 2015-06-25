@@ -1,0 +1,7 @@
+[23-Apr-2013 20:33:56 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tearlkvc/public_html/wp-includes/functions.php on line 8
+[23-Apr-2013 20:33:56 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tearlkvc/public_html/wp-includes/functions.php on line 8
+[23-Apr-2013 20:34:02 UTC] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/tearlkvc/public_html/wp-includes/functions.php on line 8
+[23-Apr-2013 20:34:02 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tearlkvc/public_html/wp-includes/functions.php on line 8
+[16-Jul-2013 19:58:00 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/tearlkvc/public_html/wp-includes/registration-functions.php on line 7
+[06-Jun-2014 03:51:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tearlkvc/public_html/wp-includes/admin-bar.php on line 39
+[19-Dec-2014 13:25:42 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tearlkvc/public_html/wp-includes/admin-bar.php on line 39

@@ -1,0 +1,6 @@
+[21-Dec-2012 09:39:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tearlkvc/public_html/wp-content/plugins/akismet/legacy.php on line 356
+[21-Dec-2012 09:39:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tearlkvc/public_html/wp-content/plugins/akismet/legacy.php on line 356
+[15-Sep-2013 02:27:19 UTC] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/tearlkvc/public_html/wp-content/plugins/akismet/akismet.php on line 32
+[06-Apr-2014 18:05:35 UTC] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/tearlkvc/public_html/wp-content/plugins/akismet/akismet.php on line 32
+[12-Jul-2014 20:39:31 UTC] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/tearlkvc/public_html/wp-content/plugins/akismet/akismet.php on line 32
+[21-Nov-2014 09:39:42 UTC] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/tearlkvc/public_html/wp-content/plugins/akismet/akismet.php on line 32
